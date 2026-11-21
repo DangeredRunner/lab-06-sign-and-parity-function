@@ -1,0 +1,1 @@
+# lab-06-sign-and-parity-function
